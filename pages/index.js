@@ -7,7 +7,7 @@ export default function Home() {
         <ul>
           <li>
             <Link href="#skip">
-              <a>Skip to main w/ Link</a>
+              Skip to main w/ Link
             </Link>
           </li>
           <li>
